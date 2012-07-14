@@ -1,0 +1,4 @@
+Car Simulator
+This is a simulation of a self driving car.
+Command to run the code:
+jython -Dpython.path=src/lib/MyProject-20120525.jar Car.py
